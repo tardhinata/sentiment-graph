@@ -1,0 +1,5 @@
+[06-Mar-2015 13:02:25 America/New_York] PHP Fatal error:  Call to a member function query() on a non-object in /home/ardhdrqa/public_html/sentimentgraph/graph/graph_generator.php on line 20
+[06-Mar-2015 13:02:53 America/New_York] PHP Fatal error:  Call to a member function query() on a non-object in /home/ardhdrqa/public_html/sentimentgraph/graph/graph_generator.php on line 20
+[06-Mar-2015 13:08:15 America/New_York] PHP Fatal error:  Call to a member function query() on a non-object in /home/ardhdrqa/public_html/sentimentgraph/graph/graph_generator.php on line 20
+[06-Mar-2015 13:09:01 America/New_York] PHP Fatal error:  Call to a member function query() on a non-object in /home/ardhdrqa/public_html/sentimentgraph/graph/graph_generator.php on line 20
+[06-Mar-2015 13:09:11 America/New_York] PHP Fatal error:  Call to a member function query() on a non-object in /home/ardhdrqa/public_html/sentimentgraph/graph/graph_generator.php on line 20

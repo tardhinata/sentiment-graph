@@ -1,0 +1,19 @@
+SELECT '2' as 'user_id_A', user_id as 'user_id_B', count(*) as number_interactions 
+from (
+	SELECT pull_request_id, user_id FROM pull_request_comments 
+	where pull_request_id in  ( SELECT distinct pull_request_id FROM pull_request_comments 
+								where user_id='1110' and pull_request_id in (select pullreq_id from pull_requests where base_repo_id=11)) 
+						  and user_id!='1110'
+) tab 
+group by tab.user_id order by tab.user_id 
+
+
+
+SELECT user_id, count(*) as number_interactions 
+from (
+	SELECT commit_id, user_id FROM commit_comments 
+	where commit_id in  ( SELECT distinct commit_id FROM commit_comments where user_id='15') and user_id!='15'
+	
+) tab 
+
+group by tab.user_id order by tab.user_id 

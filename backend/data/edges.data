@@ -1,0 +1,6 @@
+{"data":[
+	{"from": 1, "to": 2, "style": "arrow"},
+    {"from": 1, "to": 3, "style": "arrow"},
+    {"from": 2, "to": 4, "style": "arrow"},
+    {"from": 2, "to": 5, "style": "arrow"}
+]}

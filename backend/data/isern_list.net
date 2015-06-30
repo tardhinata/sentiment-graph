@@ -1,0 +1,58 @@
+*Vertices 27
+1 "software engineering practices in the us and japan|1984"
+2 "experimentation in software engineering|1986"
+3 "a controlled experiment quantitatively comparing software development approaches|1981"
+4 "comparing the effectiveness of software testing strategies|1987"
+5 "case studies for method and tool evaluation|1995"
+6 "property-based software engineering measurement|1996"
+7 "qualitative methods in empirical studies of software engineering|1999"
+8 "the tame project: towards improvement-oriented software environments|1988"
+9 "building knowledge through families of experiments|1999"
+10 "a survey of controlled experiments in software engineering|2005"
+11 "a field study of the software design process for large systems|1988"
+12 "comparing and combining software defect detection techniques: a replicated empirical study|1997"
+13 "guidelines for conducting and reporting case study research in software engineering|2009"
+14 "lessons from applying the systematic literature review process within the software engineering domain|2007"
+15 "replicated studies: building a body of knowledge about software reading techniques|2003"
+16 "replicating software engineering experiments: addressing the tacit knowledge problem|2002"
+17 "replicating software engineering experiments: a poisoned chalice or the holy grail|2005"
+18 "replications types in experimental disciplines|2010"
+19 "verification of results in software maintenance through external replication|1994"
+20 "a systematic review of web engineering research|2005"
+21 "a probability-based approach for measuring external attributes of software artifacts|2009"
+22 "defining and validating measures for object-based high-level design|1999"
+23 "using metaphor to analyse qualitative data: vulcans and humans in software development|2005"
+24 "on the reproducibility of empirical software engineering studies based on data retrieved from development repositories|2012"
+25 "developing search strategies for detecting relevant experiments|2009"
+26 "the role of non-exact replications in software engineering experiments|2011"
+27 "research synthesis in software engineering: a tertiary study|2011"
+*Arcs
+1 4
+1 8
+2 10
+2 19
+3 8
+3 9
+4 8
+4 9
+5 20
+6 21
+6 22
+7 23
+8 9
+9 20
+9 10
+9 24
+10 25
+10 13
+10 26
+11 23
+12 26
+13 27
+14 25
+15 26
+16 13
+16 15
+17 24
+17 18
+18 26
