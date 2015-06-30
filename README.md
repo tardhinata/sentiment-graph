@@ -1,4 +1,7 @@
 
+Sentiment graph visualization
+======
+
 Project to visualize sentiment between developers in Gerrit project.
 
 Sentiment is polarity of positive, negative, and neutral tone of developers' code review comments in gerrit.
